@@ -4,9 +4,10 @@
             "port": 3000,
             "protocol": "vmess",
             "settings": {
+                "decryption": "none",
                 "clients": [
                     {
-                        "id": "df8b16b1-f7ad-403e-ba6a-70dd677bbd31"
+                        "id": "c95ef1d4-f3ac-4586-96e9-234a37dda068"
                     }
                 ]
             },
